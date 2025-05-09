@@ -1,2 +1,3 @@
-# Data-Analyst-Portfolio
-My Data Analyst Portfolio
+# Data Analyst Portfolio
+
+Welcome to my GitHub portfolio.
