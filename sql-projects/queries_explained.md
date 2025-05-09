@@ -1,1 +1,0 @@
-# Placeholder for queries_explained.md
